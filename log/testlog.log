@@ -1,0 +1,7 @@
+2022-08-15 22:29:02,703 - OrangeHRM -INFO - maximizing windows
+2022-08-15 22:29:02,729 - OrangeHRM -INFO - opening OrangeHRM website
+2022-08-15 22:29:06,749 - OrangeHRM -INFO - username is provided
+2022-08-15 22:29:16,849 - OrangeHRM -INFO - password is provided
+2022-08-15 22:29:23,347 - OrangeHRM -INFO - clicked in submit button
+2022-08-15 22:29:23,360 - OrangeHRM -INFO - navigated to homepage and url is: https://opensource-demo.orangehrmlive.com/index.php/dashboard
+2022-08-15 22:29:23,366 - OrangeHRM -INFO - login test passed

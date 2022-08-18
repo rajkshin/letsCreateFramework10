@@ -1,0 +1,14 @@
+2022-08-15 22:33:51,039 [main] INFO OrangeHRM - maximizing windows
+2022-08-15 22:33:51,065 [main] INFO OrangeHRM - opening OrangeHRM website
+2022-08-15 22:33:57,255 [main] INFO OrangeHRM - username is provided
+2022-08-15 22:34:07,377 [main] INFO OrangeHRM - password is provided
+2022-08-15 22:34:14,339 [main] INFO OrangeHRM - clicked in submit button
+2022-08-15 22:34:14,354 [main] INFO OrangeHRM - navigated to homepage and url is: https://opensource-demo.orangehrmlive.com/index.php/dashboard
+2022-08-15 22:34:14,358 [main] INFO OrangeHRM - login test passed
+2022-08-15 22:46:12,123 [main] INFO OrangeHRM - maximizing windows
+2022-08-15 22:46:12,133 [main] INFO OrangeHRM - opening OrangeHRM website
+2022-08-15 22:46:16,919 [main] INFO OrangeHRM - username is provided
+2022-08-15 22:46:27,042 [main] INFO OrangeHRM - password is provided
+2022-08-15 22:46:31,258 [main] INFO OrangeHRM - clicked in submit button
+2022-08-15 22:46:31,270 [main] INFO OrangeHRM - navigated to homepage and url is: https://opensource-demo.orangehrmlive.com/index.php/dashboard
+2022-08-15 22:46:31,275 [main] INFO OrangeHRM - login test passed
