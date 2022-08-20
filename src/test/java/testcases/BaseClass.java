@@ -6,6 +6,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
@@ -16,6 +17,8 @@ import org.apache.log4j.Logger;
 import java.io.File;
 import java.io.IOException;
 import java.time.Duration;
+
+import static org.openqa.selenium.remote.DesiredCapabilities.*;
 
 public class BaseClass {
     public static WebDriver driver;
@@ -30,10 +33,8 @@ public class BaseClass {
     @Parameters("browser")
     @BeforeClass
     public void setUp(String br) {
-        logger=Logger.getLogger("OrangeHRM");
+        logger = Logger.getLogger("OrangeHRM");
         PropertyConfigurator.configure("log4j.properties");
-
-
 
         if (br.equals("chrome")) {
             System.setProperty("webdriver.chrome.driver", "src/Drivers/chromedriver.exe");

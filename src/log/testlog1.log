@@ -12,3 +12,36 @@
 2022-08-15 22:46:31,258 [main] INFO OrangeHRM - clicked in submit button
 2022-08-15 22:46:31,270 [main] INFO OrangeHRM - navigated to homepage and url is: https://opensource-demo.orangehrmlive.com/index.php/dashboard
 2022-08-15 22:46:31,275 [main] INFO OrangeHRM - login test passed
+2022-08-19 16:03:54,957 [main] INFO OrangeHRM - maximizing windows
+2022-08-19 16:03:54,987 [main] INFO OrangeHRM - opening OrangeHRM website
+2022-08-19 16:07:06,649 [main] INFO OrangeHRM - maximizing windows
+2022-08-19 16:07:06,683 [main] INFO OrangeHRM - opening OrangeHRM website
+2022-08-19 16:07:21,821 [main] INFO OrangeHRM - username is provided
+2022-08-19 16:07:26,949 [main] INFO OrangeHRM - password is provided
+2022-08-19 16:07:27,027 [main] INFO OrangeHRM - clicked in submit button
+2022-08-19 16:07:29,991 [main] INFO OrangeHRM - navigated to homepage and url is: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList
+2022-08-19 16:09:43,098 [main] INFO OrangeHRM - maximizing windows
+2022-08-19 16:09:43,111 [main] INFO OrangeHRM - opening OrangeHRM website
+2022-08-19 16:09:48,257 [main] INFO OrangeHRM - username is provided
+2022-08-19 16:09:53,369 [main] INFO OrangeHRM - password is provided
+2022-08-19 16:09:53,439 [main] INFO OrangeHRM - clicked in submit button
+2022-08-19 16:09:56,315 [main] INFO OrangeHRM - navigated to homepage and url is: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList
+2022-08-19 16:09:56,320 [main] INFO OrangeHRM - login test passed
+2022-08-20 17:39:45,213 [main] INFO OrangeHRM - maximizing windows
+2022-08-20 17:39:45,246 [main] INFO OrangeHRM - opening OrangeHRM website
+2022-08-20 18:58:06,418 [main] INFO OrangeHRM - maximizing windows
+2022-08-20 18:58:06,434 [main] INFO OrangeHRM - opening OrangeHRM website
+2022-08-20 19:06:16,393 [main] INFO OrangeHRM - maximizing windows
+2022-08-20 19:06:16,406 [main] INFO OrangeHRM - opening OrangeHRM website
+2022-08-20 19:06:26,030 [main] INFO OrangeHRM - username is provided
+2022-08-20 19:06:31,113 [main] INFO OrangeHRM - password is provided
+2022-08-20 19:06:31,155 [main] INFO OrangeHRM - clicked in submit button
+2022-08-20 19:06:34,013 [main] INFO OrangeHRM - navigated to homepage and url is: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList
+2022-08-20 19:06:34,014 [main] INFO OrangeHRM - login test passed
+2022-08-20 19:11:07,849 [main] INFO OrangeHRM - maximizing windows
+2022-08-20 19:11:07,893 [main] INFO OrangeHRM - opening OrangeHRM website
+2022-08-20 19:11:20,675 [main] INFO OrangeHRM - username is provided
+2022-08-20 19:11:25,743 [main] INFO OrangeHRM - password is provided
+2022-08-20 19:11:25,785 [main] INFO OrangeHRM - clicked in submit button
+2022-08-20 19:11:28,720 [main] INFO OrangeHRM - navigated to homepage and url is: https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList
+2022-08-20 19:11:28,724 [main] INFO OrangeHRM - login test passed

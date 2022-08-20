@@ -24,7 +24,7 @@ public class LoginTest extends BaseClass {
         String url = driver.getCurrentUrl();
         logger.info("navigated to homepage and url is: " + url);
 
-        if (url.contains("https://opensource-demo.orangehrmlive.com/index.php/dashboard")) {
+        if (url.contains("https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList")) {
             Assert.assertTrue(true);
             logger.info("login test passed");
             captureScreen(driver,"loginPassed");
